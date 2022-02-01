@@ -1,0 +1,11 @@
+.container {
+  color: black;
+  text-align: center;
+  font-size: 50px;
+}
+svg {
+  background-color: pink;
+}
+.bar:hover {
+  fill: brown;
+}
